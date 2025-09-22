@@ -1,16 +1,14 @@
 ## Hola 👋
 
-<h1 align="left">Hey 👋</h1>
-
 ###
 
 <p align="left">Me presento, mi nombre es Alan Giraldo y soy analista de datos </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Un poco sobre mi:</h2>
 
-Analista de Datos
+Soy un Analista de Datos con 3 años de experiencia en el sector del BPO, actualmente buscando nuevos retos en los cuales pueda aplicar los conocimientos adquiridos en el Bootcamp de Data Analyts (finalizado) de tripleten.
 
 Habilidades Técnicas Clave:
 
