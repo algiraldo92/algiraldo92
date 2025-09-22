@@ -25,6 +25,7 @@ Inteligencia emocional y liderazgo.
 Apasionado por el impacto transformador de los datos, 
 
 
+[Portafolio de Proyectos](https://github.com/algiraldo92/DataAnalytics.git)
   <img width="12" />
   
 </div>
