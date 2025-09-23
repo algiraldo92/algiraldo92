@@ -8,21 +8,30 @@
 
 <h2 align="left">Un poco sobre mi:</h2>
 
-Soy un Analista de Datos con 3 años de experiencia en el sector del BPO, actualmente buscando nuevos retos en los cuales pueda aplicar los conocimientos adquiridos en el Bootcamp de Data Analyts (finalizado) de tripleten.
+Data Analyst | Python • SQL • Tableau/Power BI
+Soy un Data Analyst con 3 años de experiencia en el sector BPO, especializado en transformar datos complejos en insights accionables y modelos predictivos para la optimización de recursos (WFM, Forecasting, eficiencia operativa). Recientemente finalicé el Bootcamp de Data Analytics en TripleTen para fortalecer mis habilidades técnicas. Busco oportunidades para aplicar mis conocimientos en análisis, visualización y machine learning para resolver desafíos empresariales de alto impacto.
 
-Habilidades Técnicas Clave:
+🛠 Habilidades Técnicas
+Lenguajes de Programación: Python (Pandas, NumPy, Scikit-learn), SQL
 
-Dominio de lenguajes de programación como Python y SQL para manipulación y análisis de datos avanzados.
-Manejo en Machine Learning, incluyend y Scikit-learn para desarrollar modelos predictivos y sistemas de IA.
-Análisis estadístico avanzado y visualización de datos utilizando bibliotecas como NumPy, Pandas y herramientas como Tableau o Matplotlib para insights accionables.
+Machine Learning: Modelado predictivo, Scikit-learn
 
-Habilidades Blandas Clave:
+Análisis de Datos: Análisis estadístico, cohortes, A/B testing, KPIs
 
-Colaboración y trabajo en equipo, fomentando entornos multidisciplinarios en proyectos de datos.
-Resolución de problemas y pensamiento crítico para abordar desafíos éticos y técnicos en entornos de datos dinámicos.
-Adaptabilidad y aprendizaje continuo, manteniéndome al día con tendencias emergentes como AI generativa.
-Inteligencia emocional y liderazgo.
-Apasionado por el impacto transformador de los datos, 
+Visualización de Datos: Tableau, Power BI, Matplotlib
+
+Herramientas de WFM: Forecasting, staffing, análisis de productividad
+
+💡 Habilidades Blandas
+Resolución de problemas y pensamiento crítico
+
+Colaboración en entornos multidisciplinarios
+
+Adaptabilidad y aprendizaje continuo
+
+Inteligencia emocional y liderazgo
+
+Comunicación efectiva de insights técnicos
 
 
 [Portafolio de Proyectos](https://github.com/algiraldo92/DataAnalytics.git)
