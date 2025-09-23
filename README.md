@@ -6,9 +6,9 @@
 
 ###
 
-<h2 align="left">Un poco sobre mi:</h2>
+<h2 align="left">Data Analyst | Python • SQL • Tableau/Power BI:</h2>
 
-Data Analyst | Python • SQL • Tableau/Power BI
+
 Soy un Data Analyst con 3 años de experiencia en el sector BPO, especializado en transformar datos complejos en insights accionables y modelos predictivos para la optimización de recursos (WFM, Forecasting, eficiencia operativa). Recientemente finalicé el Bootcamp de Data Analytics en TripleTen para fortalecer mis habilidades técnicas. Busco oportunidades para aplicar mis conocimientos en análisis, visualización y machine learning para resolver desafíos empresariales de alto impacto.
 
 🛠 Habilidades Técnicas
