@@ -1,10 +1,3 @@
-## Hola 👋
-
-###
-
-<p align="left">Me presento, mi nombre es Alan Giraldo y soy analista de datos </p>
-
-###
 
 <h2 align="left">Data Analyst | Python • SQL • Tableau/Power BI:</h2>
 
