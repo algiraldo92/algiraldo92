@@ -34,7 +34,6 @@ Inteligencia emocional y liderazgo
 Comunicación efectiva de insights técnicos
 
 
-[Portafolio de Proyectos](https://github.com/algiraldo92/DataAnalytics.git)
   <img width="12" />
 
 ---
@@ -72,7 +71,7 @@ Emotional intelligence and leadership
 
 Effective communication of technical insights
 
-[Project Portfolio](https://github.com/algiraldo92/DataAnalytics.git)
+
 
 </div>
 
