@@ -37,6 +37,7 @@ Comunicación efectiva de insights técnicos
   <img width="12" />
 
 ---
+---
 
 [English]
 
